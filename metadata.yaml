@@ -1,0 +1,30 @@
+_repo: What-Katy-Did-at-School_5141
+creator:
+  author:
+    agent_name: Coolidge, Susan
+    alias: Woolsey, Sarah Chauncey
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '1508'
+    url: http://www.gutenberg.org/2009/agents/1508
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- School Stories
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+title: What Katy Did at School
+url: http://www.gutenberg.org/ebooks/5141
