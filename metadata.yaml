@@ -1,5 +1,8 @@
 _repo: What-Katy-Did-at-School_5141
-_version: 0.1.2
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coolidge, Susan
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1508
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5141#What-Katy-Did-at-School
 gutenberg_bookshelf:
 - Children's Literature
 - School Stories
