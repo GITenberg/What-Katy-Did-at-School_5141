@@ -1,5 +1,5 @@
 _repo: What-Katy-Did-at-School_5141
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Schools -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Boarding schools -- Juvenile fiction'
+- GITenberg
 title: What Katy Did at School
 url: http://www.gutenberg.org/ebooks/5141
